@@ -1,2 +1,2 @@
 # emoji-game-flask
-simple game on flask . guess emoji. deployed on google colab with flask ngrok
+simple game in python . guess emoji. deployed on google colab with flask ngrok
